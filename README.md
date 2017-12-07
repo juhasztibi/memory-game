@@ -6,7 +6,6 @@
 * [Technical details](#technical-details)
 * [Author](#author)
 * [License](#license)
-* [Contributing](#contributing)
 * [Further reading](#further-reading)
 
 ## Getting started
@@ -39,10 +38,6 @@ Tibor Juhasz (tibijuhasz@gmail.com)
 ## License
 
 This project is licensed under the MIT License
-
-## Contributing
-
-Please read CONTRIBUTING.md for details on the code of conduct, and the process for submitting pull requests.
 
 ## Further reading
 
