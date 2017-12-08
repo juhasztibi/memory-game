@@ -12,7 +12,7 @@
 
 ### Description
 
-By playing memory game the user has to pick at least two cards, if the two matched it stays open otherwise flipping back. By picking pairs the movements are counted and displayed along with stars which represents the performance of the given player.
+By playing memory game the user has to pick at least two cards, if the two matched they stay open otherwise flipping back. By picking pairs the movements are counted and displayed along with stars which represents the performance of the given player.
 The game ends when all pair found.
 
 ### Prerequisites
@@ -29,7 +29,7 @@ The application is compatible with all modern mobile and desktop browsers. Not r
 
 ## Technical details
 
-The game is written in html, css and javascript. The main logic implemented in vanilla javascript in order to reduce de dependences.
+The game is written in html, css and javascript. The main logic implemented in vanilla javascript in order to reduce dependences.
 
 ## Author
 
